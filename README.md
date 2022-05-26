@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wuninsu
 - 👀 I’m interested in Computer Science and Technology
-- 🌱 I’m currently learning programming with python
+- 🌱 I’m currently learning programming with java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
